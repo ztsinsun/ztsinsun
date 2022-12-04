@@ -3,9 +3,6 @@
 🏳️‍🌈The Language Used：简体中文、English<br>
 ☕My Hobby：咕咕咕，研究代码<br>
 📧E-MAIL：ztsin@ms.ztsin.icu<br>
-🖥️My Home Website:https://ztsin.cn<br>
-🖥️My Blog Website:https://blog.ztsin.cn<br>
-
 <p align="center"> 
   </br></br>
   <a href="https://t.me/Z_Tsin"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-telegram.svg" width="210px"/></a>
