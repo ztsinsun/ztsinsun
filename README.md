@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ztsinsun
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ztsinsun/ztsinsun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi,初次见面！我是Z_Tsin。
+🎮Favorite Games：Minecraft、Apex Legands、CS:GO
+🏳️‍🌈The Language Used：简体中文、English
+☕My Hobby：咕咕咕，研究代码
+📧E-MAIL：ztsin@ms.ztsin.icu
+🖥️My Home Website:https://ztsin.cn
+🖥️My Blog Website:https://blog.ztsin.cn
