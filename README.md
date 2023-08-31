@@ -1,8 +1,8 @@
 👋 Hi,初次见面！我是Z_Tsin。<br>
-🎮Favorite Games：Minecraft、Apex Legands、CS:GO<br>
+🎮Favorite Games：Minecraft、Apex Legands、CS:GO、Genshin Impact<br>
 🏳️‍🌈The Language Used：简体中文、English<br>
 ☕My Hobby：咕咕咕，研究代码<br>
-📧E-MAIL：ztsin@ms.ztsin.icu<br>
+📧E-MAIL：horizonsun@vip.qq.com<br>
 <p align="center"> 
   </br></br>
   <a href="https://t.me/Z_Tsin"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-telegram.svg" width="210px"/></a>
